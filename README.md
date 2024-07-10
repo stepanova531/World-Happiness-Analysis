@@ -10,5 +10,15 @@ Open source data: World Happiness Report.
 The World Happiness Report is a partnership of Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the WHR’s Editorial Board.
 Merged dataset is based on country results for 9 years since 2015 to 2023 in a prepared datasets and allows to conduct spatial and time series analysis.
 Data is available [here](https://www.kaggle.com/datasets/unsdsn/world-happiness).
+# Data cntents
+The data is categorized by country for 2015-2023 and contains the following variables:
+•	Happiness rank
+•	Happiness score
+•	GDP per capita
+•	Family / social support
+•	Healthy life expectancy
+•	Freedom to make life choices
+•	Generosity (willingness to donate for charity)
+•	Perceptions of corruption
 # Tools
 Python, Jupyter Notebook, Pandas & NumPy Libraries, Matplotlib, Seaborn, Tableau
