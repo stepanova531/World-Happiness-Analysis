@@ -15,6 +15,7 @@ The data is categorized by country for 2015-2023 and contains the following vari
 # Tools
 Python, Jupyter Notebook, Pandas & NumPy Libraries, Matplotlib, Seaborn, Tableau
 # Insights and Recommendations
+[Storyboard in Tableau](https://public.tableau.com/app/profile/oksana.stepanova/viz/World_Happiness_Analysis_Storyboard/WorldHappiness?publish=yes)
   For retired people aiming at traveling or temporaryly staying in different countries for a long term and based on their preferences of good relationships and excellent medical services, the relationship between happiness score and two happiness factors life expectancy and social support have been analyzed.  
 - Both factors have positive and strong correlation with the happiness score. 
 - Nations with the highest life expectancy score are not classified as the happiest counties. While family and social support contribute a lot to the people’s happiness in the counties from the top-20 list. 
