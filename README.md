@@ -24,3 +24,7 @@ For the younger generation, whose purposes in life are traveling & working or st
 - GDP per capita has the strongest correlation. Freedom has weaker, but still positive correlation.   
 - The highest level of GDP isn’t always compatible with the high happiness level. Moreover, five countries out of ten that reported the highest GDP score are ruled by autocratic governments. It is very unlikely that young people will be happy to stay there for a long term.        
 - I would recommend that young people select a country of their destination from the top happiest counties and with a high freedom level. 
+# Key takeaways
+- For successful supervised machine learning, we need to feed enough data to predict the outcome, use statistics (regression coefficient, MSE, R2 score) to assess accuracy; the model shouldn’t be overfitted; the performance  can be improved by removing outliers.
+- For clustering / unsupervised machine learning, the main steps of analysis are standardizing data, defining the number of clusters, analyzing the individual statistics of each cluster. 
+- For time series analysis: only stationary data can be used for forecasting; by decomposing the data we can analyze three main components: trend, seasonality and noise. Statistical test check should be used in combination with other technics to check the data stationarity. 
