@@ -19,6 +19,8 @@ Data is available [here](https://www.kaggle.com/datasets/unsdsn/world-happiness)
 The data is categorized by country for 2015-2023 and contains the following variables: Happiness rank, Happiness score, GDP per capita, Family / social support, Healthy life expectancy, Freedom to make life choices, Generosity (willingness to donate for charity), Perceptions of corruption.
 # Tools
 Python, Jupyter Notebook, Pandas & NumPy Libraries, Matplotlib, Seaborn, Tableau
+
+Python scripts are available [here](https://github.com/stepanova531/World-Happiness-Analysis/tree/main/GitHub_World_Happiness/03%20Scripts)
 # Insights and Recommendations
 [Storyboard in Tableau](https://public.tableau.com/app/profile/oksana.stepanova/viz/World_Happiness_Analysis_Storyboard/WorldHappiness?publish=yes)
   
