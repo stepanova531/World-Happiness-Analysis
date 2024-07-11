@@ -15,12 +15,8 @@ The data is categorized by country for 2015-2023 and contains the following vari
 # Tools
 Python, Jupyter Notebook, Pandas & NumPy Libraries, Matplotlib, Seaborn, Tableau
 # Insights and Recommendations
-  For the retired people aiming at temporarily staying in different countries, the relationship between happiness score and life expectancy and social support has been analyzed. 
+  For retired people aiming at traveling or temporaryly staying in different countries for a long term and based on their preferences of good relationships and excellent medical services, the relationship between happiness score and two happiness factors life expectancy and social support have been analyzed.  
 - Both factors have positive and strong correlation with the happiness score. 
 - Nations with the highest life expectancy score are not classified as the happiest counties. While family and social support contribute a lot to the people’s happiness in the counties from the top-20 list. 
 - I would suggest that elderly people select a country of their destination from the top happiest counties and with a high social relationship level. 
-  For the younger generation, whose purposes in life are traveling & working, I have analyzed how GDP per capita and freedom are correlated with the happiness score. 
-- GDP per capita has the strongest correlation. Freedom has weaker, but still positive correlation.   
-- The highest level of GDP isn’t always compatible with the high happiness level. Moreover, five countries out of ten that reported the highest GDP score are ruled by autocratic governments. It is very unlikely that young people will be happy to stay there for a long term.          
-- I would recommend that young people select a country of their destination from the top happiest counties and with a high freedom level.
-- 
+  
